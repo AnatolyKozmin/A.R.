@@ -6,7 +6,8 @@ import asyncio
 
 from slovar1 import startcmd_text, faq_msg
 
-API_TOKEN = '7849617793:AAEJNOPWh8UaIA5Biru3oPC8GIbs_XA1k2I' 
+API_TOKEN = ''
+# API_TOKEN = '7849617793:AAEJNOPWh8UaIA5Biru3oPC8GIbs_XA1k2I' 
 # tg @sha2_assistantbot
 
 bot = Bot(token=API_TOKEN) # создаем экземпляр бота, точка входа в программу 
